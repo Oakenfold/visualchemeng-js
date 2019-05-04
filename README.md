@@ -1,4 +1,4 @@
-# visualchemeng-js
+# visualchemeng-js En Espanol
 
 <p align="center">
 <img src="http://visualchemeng.com/wp-content/uploads/2017/09/vcelogo_round.png" width="20%" margin="auto" display="block">
